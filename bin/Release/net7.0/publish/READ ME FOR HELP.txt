@@ -1,0 +1,5 @@
+This folder contains the executable file to run the bot.
+
+1. Put your discord bot's token in the TOKEN.json file inside the double quotes
+
+2. Double click the DiscordTradeBot.exe file to start the bot

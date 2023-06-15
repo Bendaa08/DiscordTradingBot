@@ -1,0 +1,5 @@
+C:\Users\infin\source\repos\DiscordTradeBot\bin\Release\net7.0\publish\DiscordTradeBot.pdb
+C:\Users\infin\source\repos\DiscordTradeBot\bin\Release\net7.0\publish\TOKEN.json
+C:\Users\infin\source\repos\DiscordTradeBot\bin\Release\net7.0\publish\sni.dll
+C:\Users\infin\source\repos\DiscordTradeBot\bin\Release\net7.0\publish\SQLite.Interop.dll
+C:\Users\infin\source\repos\DiscordTradeBot\bin\Release\net7.0\publish\DiscordTradeBot.exe
